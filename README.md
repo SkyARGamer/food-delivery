@@ -46,12 +46,12 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshandev/Food-Delivery
+    git clone https://github.com/codecreed20/food-delivery
 ```
 Go to the project directory
 
 ```bash
-    cd Food-Delivery
+    cd Food-delivery
 ```
 Install dependencies (frontend)
 
@@ -127,4 +127,4 @@ Just raise an issue, and we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
+If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/pujit-swikrit-57019424a/)
